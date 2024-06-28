@@ -4,6 +4,6 @@ Repo that contains the code for a simple app that keeps track of the cassettes I
 
 ## Access the App
 
-The app is on [here](https://ahmad-zurih.github.io/records_collections/).
+The app is on https://philippe-gieseler.github.io/cassettes_collection/
 
 
