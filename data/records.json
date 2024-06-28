@@ -4,7 +4,16 @@
         "albums": [
             {
                 "title": "Dangerous",
-                "image": "./images/DSC00083.JPG"
+                "image": "./images/DSC00084.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Bob Marley",
+        "albums": [
+            {
+                "title": "Babylon By Bus",
+                "image": "./images/DSC00085.JPG"
             }
         ]
     }
