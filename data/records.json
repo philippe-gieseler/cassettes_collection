@@ -25,5 +25,23 @@
                 "image": "./images/DSC00086.JPG"
             }
         ]
+    },
+    {
+        "name": "The Beatles ",
+        "albums": [
+            {
+                "title": "1967-1970 - VOL.1",
+                "image": "./images/DSC00087.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Eric Serra",
+        "albums": [
+            {
+                "title": "Le Grand Bleu",
+                "image": "./images/DSC00088.JPG"
+            }
+        ]
     }
 ]
