@@ -5,6 +5,22 @@
             {
                 "title": "Dangerous",
                 "image": "./images/DSC00084.JPG"
+            },
+            {
+                "title": "Bad",
+                "image": "./images/DSC00115.JPG"
+            },
+            {
+                "title": "Thriller",
+                "image": "./images/DSC00116.JPG"
+            },
+            {
+                "title": "Dangerous World Tour",
+                "image": "./images/DSC00117.JPG"
+            },
+            {
+                "title": "Black or White",
+                "image": "./images/DSC00118.JPG"
             }
         ]
     },
@@ -27,11 +43,23 @@
         ]
     },
     {
-        "name": "The Beatles ",
+        "name": "The Beatles",
         "albums": [
             {
                 "title": "1967-1970 - VOL.1",
                 "image": "./images/DSC00087.JPG"
+            },
+            {
+                "title": "1967-1970 Vol.1",
+                "image": "./images/DSC00104.JPG"
+            },
+            {
+                "title": "Love Songs VOL. 2",
+                "image": "./images/DSC00109.JPG"
+            },
+            {
+                "title": "SGT Pepper's Lonely Hearts Club Band",
+                "image": "./images/DSC00110.JPG"
             }
         ]
     },
@@ -148,6 +176,105 @@
             {
                 "title": "Miles Davis' Greatest Hits",
                 "image": "./images/DSC00103.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Van Halen",
+        "albums": [
+            {
+                "title": "Van Halen",
+                "image": "./images/DSC00105.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Joan Baez",
+        "albums": [
+            {
+                "title": "Bear Family Records",
+                "image": "./images/DSC00106.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Eric Clapton",
+        "albums": [
+            {
+                "title": "Unplugged",
+                "image": "./images/DSC00107.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Bob Marley and the Wailers",
+        "albums": [
+            {
+                "title": "Catch a Fire",
+                "image": "./images/DSC00108.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Frank Sinatra",
+        "albums": [
+            {
+                "title": "New York New York",
+                "image": "./images/DSC00111.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Nirvana",
+        "albums": [
+            {
+                "title": "Bleach",
+                "image": "./images/DSC00112.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Bob Dylan",
+        "albums": [
+            {
+                "title": "Greatest Hits",
+                "image": "./images/DSC00113.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Robert Palmer",
+        "albums": [
+            {
+                "title": "Pride",
+                "image": "./images/DSC00114.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Madonna",
+        "albums": [
+            {
+                "title": "Like a Prayer",
+                "image": "./images/DSC00119.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Prince",
+        "albums": [
+            {
+                "title": "Batman",
+                "image": "./images/DSC00120.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Queen",
+        "albums": [
+            {
+                "title": "Innuendo",
+                "image": "./images/DSC00121.JPG"
             }
         ]
     }
