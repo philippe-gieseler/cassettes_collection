@@ -43,5 +43,112 @@
                 "image": "./images/DSC00088.JPG"
             }
         ]
+    },
+    {
+        "name": "Jimi Hendrix",
+        "albums": [
+            {
+                "title": "The Jimi Hendrix Experience - Live At Winterland",
+                "image": "./images/DSC00089.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Tracy Chapman",
+        "albums": [
+            {
+                "title": "Crossroads",
+                "image": "./images/DSC00090.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Radiohead",
+        "albums": [
+            {
+                "title": "the bends",
+                "image": "./images/DSC00091.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Cinema",
+        "albums": [
+            {
+                "title": "Staying Alive",
+                "image": "./images/DSC00092.JPG"
+            },
+            {
+                "title": "Flashdance",
+                "image": "./images/DSC00093.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Mariah Carey",
+        "albums": [
+            {
+                "title": "Music Box",
+                "image": "./images/DSC00094.JPG"
+            }
+        ]
+    },
+    {
+        "name": "The Rolling Stones",
+        "albums": [
+            {
+                "title": "Love You Live 1",
+                "image": "./images/DSC00096.JPG"
+            },
+            {
+                "title": "Love You Live 2",
+                "image": "./images/DSC00097.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Prince & The New Power Generation",
+        "albums": [
+            {
+                "title": "Diamonds and Pearls",
+                "image": "./images/DSC00099.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Roger Waters",
+        "albums": [
+            {
+                "title": "Radio Kaos",
+                "image": "./images/DSC00100.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Deep Purple",
+        "albums": [
+            {
+                "title": "Last Concert in Japan",
+                "image": "./images/DSC00101.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Plastic Bertrand",
+        "albums": [
+            {
+                "title": "AN 1",
+                "image": "./images/DSC00102.JPG"
+            }
+        ]
+    },
+    {
+        "name": "Miles Davis",
+        "albums": [
+            {
+                "title": "Miles Davis' Greatest Hits",
+                "image": "./images/DSC00103.JPG"
+            }
+        ]
     }
 ]
