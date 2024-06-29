@@ -16,5 +16,14 @@
                 "image": "./images/DSC00085.JPG"
             }
         ]
+    },
+    {
+        "name": "Eagles",
+        "albums": [
+            {
+                "title": "Hotel California",
+                "image": "./images/DSC00086.JPG"
+            }
+        ]
     }
 ]
